@@ -4,7 +4,7 @@
  * Translated by : Framgia Vietnam
  * Translator : Phan Hoang Minh
 
-***
+-------------------------
 
 This is the dummy data list that can be used for creating samples and web service. **Dummy URL, IP address, client information, credit card number...**  are all written here. 
 
