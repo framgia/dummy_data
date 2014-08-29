@@ -174,21 +174,21 @@ Using reference such as img src ="http://dummyimage.com/570×295"
   
 http://dummyimage.com/570×150
 
-1
+
 <img src="http://dummyimage.com/570x90">
 
 ###PlaceIMG
   
 http://placeimg.com/570/90/any
 
-1
+
 <img src="http://placeimg.com/570/90/any">
 
 ###placehold.jp
   
 http://placehold.jp/570×150
 
-1
+
 <img src="http://placehold.jp/570x90.png">
 
 
