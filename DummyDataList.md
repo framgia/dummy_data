@@ -4,13 +4,12 @@
  * Translated by : Framgia Vietnam
  * Translator : Phan Hoang Minh
 
--------------------------
 
 This is the dummy data list that can be used for creating samples and web service. **Dummy URL, IP address, client information, credit card number...**  are all written here. 
 
 All you have to do is referring this document. I think it cover all you need for test!
 
-***
+
 ##Credit card numbers
 ###Visa (16 digits)
 * 4111111111111111   
@@ -76,7 +75,7 @@ Security number : any 3-digit number
 * 4000000000000127 (authentication is rejected & return mismatched security number error) 
 * 4000000000000069 (authentication is rejected & return time expired error) 
 * 4000000000000119 (authentication is rejected & return cannot process error)  
-***
+
 ##Debit card numbers
 ###Maestro  (International card)
 * 5033 9619 8909 17 
@@ -101,7 +100,7 @@ Security number : any 3-digit number
 ###Laser (19 digits)
 * 6304985028090561515
 
-***
+
 ##Dummy URL
 ###Top level domains
 * .test (for testing) 
@@ -140,11 +139,11 @@ Security number : any 3-digit number
 ※ Based on JPRS document  
 ※ For japanese domains like .テスト, punycode notation can also be used. For examples : ドメイン名例.jp → xn—eckwd4c7cu47r2wf.jp
 
-***
+
 ##Dummy mail address
 * hoge@example.com 
 
-***
+
 ##Dummy IP address
 ###IPv4
 * 192.0.2.0/24 
@@ -157,7 +156,7 @@ Security number : any 3-digit number
 
 ※ Based on RFC 6890 document
 
-***
+
 ##Dummy client information
 * You can export up to 500 client information records by using http://kazina.com/dummy/ 
 
@@ -167,7 +166,7 @@ Security number : any 3-digit number
 ###Output information
 * Name, furigana, mail address, gender, age, birthday, married or not, blood type, province, phone number, cell phone number, job, curry eating style (for reference column)
 
-***
+
 ##Dummy images
 Using reference such as <img src ="http://dummyimage.com/570×295">
 
@@ -191,7 +190,7 @@ http://placehold.jp/570×150
 
 1
 <img src="http://placehold.jp/570x90.png">
-***
+
 
 Was it good enough? Please tell us on Facebook if you think there is other dummy data that should be published. 
   
