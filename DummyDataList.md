@@ -168,7 +168,7 @@ Security number : any 3-digit number
 
 
 ##Dummy images
-Using reference such as <img src ="http://dummyimage.com/570×295">
+Using reference such as "<img src ="http://dummyimage.com/570×295">"
 
 ###DummyImage.com
   
