@@ -1,6 +1,5 @@
 #To every Japanese engineer!  This is the dummy data list (for test use) being published currently!
 
-***
  * Source : http://www.find-job.net/startup/dummy-2013
  * Translated by : Framgia Vietnam
  * Translator : Phan Hoang Minh
